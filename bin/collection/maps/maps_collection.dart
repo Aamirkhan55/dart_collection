@@ -7,6 +7,6 @@ void main () {
     'grape': 'purple',
   };
   print(colors);
-  colors['peach'] = 'yellow + rwd';
+  colors['peach'] = 'yellow + red';
   print(colors);
 }
